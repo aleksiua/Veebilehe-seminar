@@ -1,0 +1,38 @@
+h1 {
+    color: blue;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body p {
+    color: darkviolet;
+    font-size: small;
+    font-family: cursive, sans-serif;
+    text-align: center;
+}
+
+img {
+border: 3px rebeccapurple;
+    box-shadow: darkslateblue;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table th {
+    background-color: cadetblue;
+    font-weight: bold;
+}
+
+table td,
+table th {
+    border: 2xp darkblue;
+    padding: 8xp;
+    text-align: center;
+}
+
+body {
+    background-color: azure;
+}
